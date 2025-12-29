@@ -1,12 +1,15 @@
-{
-  "name": "psu-eco-team-dashboard",
-  "version": "1.0.0",
-  "description": "PSU Racing Dashboard",
-  "scripts": {
-    "build": "echo 'Static site'",
-    "start": "python -m http.server 3000"
-  },
-  "keywords": ["dashboard", "racing"],
-  "author": "",
-  "license": "ISC"
+﻿{
+    "version":  "1.0.0",
+    "name":  "psu-eco-team-dashboard",
+    "description":  "PSU Racing Dashboard",
+    "scripts":  {
+                    "start":  "python -m http.server 3000",
+                    "build":  "echo \u0027Static site\u0027"
+                },
+    "author":  "",
+    "keywords":  [
+                     "dashboard",
+                     "racing"
+                 ],
+    "license":  "ISC"
 }
