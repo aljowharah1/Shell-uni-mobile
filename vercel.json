@@ -1,0 +1,12 @@
+{
+  "buildCommand": "echo 'Static site - no build needed'",
+  "outputDirectory": "dashboardPSU_ECOteam/app",
+  "public": "dashboardPSU_ECOteam/app",
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

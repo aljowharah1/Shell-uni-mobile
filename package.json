@@ -1,0 +1,12 @@
+{
+  "name": "psu-eco-team-dashboard",
+  "version": "1.0.0",
+  "description": "PSU Racing Dashboard",
+  "scripts": {
+    "build": "echo 'Static site'",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": ["dashboard", "racing"],
+  "author": "",
+  "license": "ISC"
+}
